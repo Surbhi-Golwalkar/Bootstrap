@@ -1,0 +1,14 @@
+.nav-bar{
+                  padding: 0px;
+                  color: #cc2b4b!important;
+                  text-decoration: none;
+                  /*font-weight: bold;*/
+                  font-size: 26px;
+                  text-align: justify;
+                }
+.style{
+                  background-color: #cc2b4b;
+                  height: 27px;
+                  width: 49px;
+                  border: 1px solid black;
+                }
